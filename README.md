@@ -145,7 +145,7 @@ https://api.telegram.org/bot<您的BOT_TOKEN>/setWebhook?url=<您的Worker服务
 
 ## 版本更新内容
 
-### 代码更新进度2.4内容：by
+### 代码更新进度2.4内容：by DeepSkyFire
 
  * [修复] 修复已验证用户多次点击/start指令后被降级重新验证的问题
  * [新增] 完善了答案对比的逻辑，并增加了多重答案的支持。使用 | 分隔多种答案
